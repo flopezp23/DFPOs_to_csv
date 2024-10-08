@@ -179,3 +179,5 @@ From the above json data, it is required to delete the "protectedNetwork" inform
     "detection" : "Detection-2"
   } ]
 
+You also will find in the repository an example of the input file in the corresponding format, as well as an example of the output file.
+
